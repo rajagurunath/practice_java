@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OwnStack",
+            "request": "launch",
+            "mainClass": "OwnStack"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalculateInfix",
+            "request": "launch",
+            "mainClass": "CalculateInfix"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintDiamond",
+            "request": "launch",
+            "mainClass": "PrintDiamond"
+        }
+    ]
+}
